@@ -18,5 +18,6 @@ I'm an AI Engineer with a solid IT background. Coding is just the tool; the real
 ### 📫 Let's connect
 
 * Always open to discussing new ideas, AI advancements, or collaborating on interesting technical challenges!
-* 🔗 **Blog:** https://www.rebruit.com
+* 🔗 **Blog:** https://www.nkenta.com
+* 🔗 **Coming Soom:** https://portfolio.nkenta.com
 * 🔗 **LinkedIn:** https://www.linkedin.com/in/nkenta
